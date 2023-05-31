@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "sass": "^1.62.1"
+  },
+  "name": "trabalho-sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass source/styles.scss build/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
